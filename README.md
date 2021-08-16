@@ -18,3 +18,4 @@ The idea came to me quite quickly as the whole point of this module was to displ
 PBR and Shadows as they compliment each other quite nicely. 
 
 Github Link: https://github.com/ckusellagussin/COMP3015--OpenGL-GLSL
+Youtube Link: https://youtu.be/nWPEnnB3g6M
