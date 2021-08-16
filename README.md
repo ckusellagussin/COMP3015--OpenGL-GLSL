@@ -2,8 +2,12 @@
 Visual Studio Version: 4.8.04084
 
 Controls: 
+
 Arrow Keys = Camera Controls
+
 + and - on numberpad = Zoom in and out with Camera
+
+
 Spacebar - Pause animations
 
 This project was used with a template that my lecturer gave me, The template was barebones and was used only for organisation.
