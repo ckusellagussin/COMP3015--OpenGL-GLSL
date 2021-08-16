@@ -5,7 +5,7 @@ Controls:
 
 Arrow Keys = Camera Controls
 
-+ and - on numberpad = Zoom in and out with Camera
+Plus sign and Minus sign on numberpad = Zoom in and out with Camera
 
 
 Spacebar - Pause animations
